@@ -85,10 +85,10 @@ const desktopModeProps = {
     "Flex8": {
       "callbacks": {}
     },
-    "Flex9": {
+    "Flex53": {
       "callbacks": {}
     },
-    "Flex10": {
+    "Flex54": {
       "callbacks": {}
     },
     "Div13": {
@@ -118,10 +118,10 @@ const desktopModeProps = {
     "Div15": {
       "callbacks": {}
     },
-    "Flex19": {
+    "Div16": {
       "callbacks": {}
     },
-    "Div16": {
+    "Flex52": {
       "callbacks": {}
     },
     "Flex25": {
@@ -586,9 +586,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox26": {
+    "TextBox77": {
       "custom": {
-        "text": "DataDashProduct Design"
+        "text": "Soulful Rebrand"
       },
       "callbacks": {
         "onClick": [
@@ -598,9 +598,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox27": {
+    "TextBox78": {
       "custom": {
-        "text": "Maize Website Design"
+        "text": "Soulful Rebrand"
       },
       "callbacks": {
         "onClick": [
@@ -782,18 +782,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox45": {
-      "custom": {
-        "text": "Over the past 12 years, I've worked with a diverse range of clients, from startups to Fortune 500 companies. I love crafting interfaces that delight users and help businesses grow."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox42": {
       "custom": {
         "text": "Product  Designer Thats ME :)"
@@ -806,14 +794,20 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex20": {
+    "Flex50": {
       "callbacks": {}
     },
-    "Flex21": {
-      "callbacks": {}
-    },
-    "Flex22": {
-      "callbacks": {}
+    "TextBox45": {
+      "custom": {
+        "text": "Over the past 12 years, I've worked with a diverse range of clients, from startups to Fortune 500 companies. I love crafting interfaces that delight users and help businesses grow."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
     "TextBox47": {
       "custom": {
