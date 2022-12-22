@@ -1,0 +1,260 @@
+.p-Home.Flex1 {
+display: flex;
+}
+.p-Home.Div2 {
+height: 50px;
+margin-left: 500px;
+margin-right: 5px;
+width: 60px;
+cursor: pointer;
+}
+.p-Home.Div3 {
+height: 50px;
+margin-right: 5px;
+width: 80px;
+}
+.p-Home.Div5 {
+height: ;
+margin-right: 5px;
+width: 80px;
+}
+.p-Home.Div6 {
+height: 50px;
+margin-right: ;
+width: 60px;
+margin-left: 0px;
+}
+.p-Home.Div9 {
+height: 50px;
+width: 150px;
+}
+.p-Home.Div10 {
+;
+}
+.p-Home.Div11 {
+height: 420px;
+width: 520px;
+margin-left: 50px;
+margin-top: 100px;
+}
+.p-Home.Flex2 {
+display: flex;
+margin-top: ;
+margin-bottom: ;
+position: relative;
+bottom: 350px;
+height: ;
+align-items: center;
+justify-content: center;
+}
+.p-Home.Flex3 {
+display: flex;
+bottom: 350px;
+position: relative;
+align-self: center;
+height: 50px;
+align-items: flex-end;
+justify-content: center;
+align-content: stretch;
+row-gap: ;
+column-gap: 100px;
+}
+.p-Home.Flex4 {
+display: flex;
+bottom: 300px;
+position: relative;
+align-items: center;
+justify-content: center;
+height: 50px;
+row-gap: ;
+column-gap: 50px;
+align-self: center;
+flex-direction: column;
+}
+.p-Home.Flex5 {
+display: flex;
+position: relative;
+bottom: 250px;
+flex-direction: row;
+justify-content: space-between;
+}
+.p-Home.Flex6 {
+display: flex;
+bottom: 200px;
+position: relative;
+flex-direction: column;
+}
+.p-Home.TextBox3 {
+;
+}
+.p-Home.TextBox4 {
+;
+}
+.p-Home.Div12 {
+width: 450px;
+height: 420px;
+margin-left: 600px;
+margin-bottom: ;
+margin-top: ;
+bottom: 420px;
+background-position-y: ;
+position: relative;
+background-image: url("/app-assets/atri1.jpg");
+}
+.p-Home.Button2 {
+color: #fff;
+background-color: #0e0e10;
+padding-top: 8px;
+padding-left: 10px;
+padding-bottom: 8px;
+padding-right: 10px;
+font-size: 20px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #18d7ff;
+cursor: pointer;
+user-select: none;
+bottom: 250px;
+position: relative;
+float: right;
+box-sizing: content-box;
+margin-right: 15px;
+}
+.p-Home.Flex7 {
+display: flex;
+}
+.p-Home.header_TextBox {
+font-size: 30px;
+}
+.p-Home.Link5 {
+width: 50px;
+margin-top: 10px;
+font-size: 20px;
+margin-left: 5px;
+}
+.p-Home.Link7 {
+margin-top: 10px;
+font-size: 20px;
+cursor: pointer;
+}
+.p-Home.Link8 {
+margin-top: 10px;
+font-size: 20px;
+margin-left: ;
+margin-right: ;
+cursor: pointer;
+}
+.p-Home.Link9 {
+margin-top: 10px;
+font-size: 20px;
+cursor: pointer;
+}
+.p-Home.Link10 {
+;
+}
+.p-Home.Link12 {
+;
+}
+.p-Home.Link13 {
+;
+}
+.p-Home.Link14 {
+margin-top: 10px;
+font-size: 20px;
+cursor: pointer;
+}
+.p-Home.TextBox5 {
+;
+}
+.p-Home.TextBox6 {
+font-size: 60px;
+color: #de7b7b;
+}
+.p-Home.TextBox7 {
+font-size: 20px;
+margin-top: 20px;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #1a1a1b;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #021323ff;
+cursor: pointer;
+user-select: none;
+margin-top: 15px;
+}
+.p-Home.Link15 {
+margin-left: 50px;
+font-size: 25px;
+}
+.p-Home.TextBox8 {
+text-align: center;
+float: none;
+clear: both;
+position: relative;
+font-size: 20px;
+}
+.p-Home.TextBox10 {
+;
+}
+.p-Home.TextBox11 {
+;
+}
+.p-Home.TextBox12 {
+;
+}
+.p-Home.TextBox13 {
+;
+}
+.p-Home.TextBox15 {
+color: #c13838;
+font-size: 30px;
+}
+.p-Home.TextBox16 {
+font-size: 40px;
+color: #c91de6;
+}
+.p-Home.TextBox17 {
+width: 300px;
+text-align: center;
+word-wrap: break-word;
+background-origin: content-box;
+background-clip: content-box;
+-webkit-background-clip: content-box;
+clear: none;
+overflow: visible;
+font-size: 20px;
+}
+.p-Home.TextBox18 {
+width: 300px;
+font-size: 20px;
+}
+.p-Home.TextBox19 {
+width: 300px;
+font-size: 20px;
+}
+.p-Home.TextBox20 {
+color: #4875f7;
+font-size: 30px;
+}
+.p-Home.TextBox22 {
+font-size: 40px;
+text-align: left;
+float: left;
+background-clip: text;
+-webkit-background-clip: text;
+}
