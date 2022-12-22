@@ -9,5 +9,7 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "organizationName": "Diksha3773",
+  "projectName": "atri_framework"
 }

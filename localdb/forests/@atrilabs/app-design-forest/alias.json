@@ -1,7 +1,13 @@
 {
-  "Flex": 7,
-  "TextBox": 22,
-  "Div": 12,
-  "Link": 18,
-  "Button": 2
+  "Flex": 49,
+  "TextBox": 75,
+  "Div": 16,
+  "Link": 31,
+  "Button": 2,
+  "Carousel": 2,
+  "UnorderedList": 1,
+  "Image": 1,
+  "Dropdown": 4,
+  "VerticalMenu": 3,
+  "Radio": 1
 }
